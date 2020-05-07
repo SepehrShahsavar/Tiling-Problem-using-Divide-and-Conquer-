@@ -1,0 +1,10 @@
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.csprojAssemblyReference.cache
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.Form1.resources
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.csproj.GenerateResource.cache
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\bin\Debug\TourinoPuzzel.exe.config
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\bin\Debug\TourinoPuzzel.exe
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\bin\Debug\TourinoPuzzel.pdb
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\TourinoPuzzel.Properties.Resources.resources
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\TourinoPuzzel.exe
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\TourinoPuzzel.pdb
+C:\Users\Sepehr Shahsavar\source\repos\Skyscraper\Skyscraper\obj\Debug\TourinoPuzzel.Form2.resources
